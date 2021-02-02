@@ -21,3 +21,18 @@
         width: 100px;
     }
 }
+
+@media print {
+    .box-one {
+        color: red;
+    }
+    .box-two {
+        color: chartreuse;
+    }
+    .box-three {
+        color: blueviolet;
+    }
+    .box-four {
+        color: blue
+    }
+}
